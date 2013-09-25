@@ -1,0 +1,13 @@
+***************
+*** 1,5 ****
+  module EventMachine
+    module Twitter
+-     VERSION = "0.2.2" unless defined?(EventMachine::Twitter::VERSION)
+    end
+  end
+--- 1,5 ----
+  module EventMachine
+    module Twitter
++     VERSION = "0.2.2p1" unless defined?(EventMachine::Twitter::VERSION)
+    end
+  end
